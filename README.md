@@ -180,5 +180,28 @@ ola-ride-analytics/
 **Tools:** MySQL · Power BI · SQL · Data Modeling
 
 ---
+## 👩‍💻 Connect With Me
+
+<div align="center">
+
+**Prachi Paliwal**
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prachi005748)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-paliwal-799126268/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prachipaliwal745@gmail.com)
+
+### ⭐ If you found this project helpful, consider giving it a star!
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️ and SQL**
 
 *Built to demonstrate end-to-end analytics skills — from raw data to business decisions.*
+
+</div>
+
+
